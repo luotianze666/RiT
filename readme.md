@@ -3,6 +3,7 @@
 Official PyTorch implementation of **RiT** (NeurIPS 2026 Spotlight, top 1.3% of submissions).
 
 [Tianze Luo](https://github.com/luotianze666), [Haofeng Huang](https://github.com/jason-huang03), [Yuan Yao](https://collegeai.tsinghua.edu.cn/en/People/Full_time_PI/Yuan_Yao.htm)
+
 Tsinghua University
 
 [Paper](https://openreview.net/forum?id=FwWaPhPb2O) | [Checkpoints](https://huggingface.co/luotianze666/RiT_ckpts)
